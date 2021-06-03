@@ -1,0 +1,63 @@
+Log: 29/07/2020 18:58:12 
+>>> BucarDinheiroPassagemCaixaUltimoFechamento 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> RegistrarAberturaCaixa 1 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> INSERT INTO envelope (dinheiro_inicial, dinheiro_inicial_diferenca, data_abertura_caixa, hora_abertura_caixa, observacao, pdv, operador)  VALUES (200.00,-200.00,'29/07/2020','18:58:16','','PDV Medianeira','Admin') 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 1 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 2 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 3 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 4 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 5 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 6 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 7 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> #94 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 8 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 9 
+---------------------------------------------
+Log: 29/07/2020 18:58:17 
+>>> 10 
+---------------------------------------------
+Log: 29/07/2020 19:05:33 
+>>> O Sport Club Internacional é um clube multiesportivo brasileiro com sede na cidade de Porto Alegre, capital do Rio Grande do Sul. Foi fundado em 4 de abril de 1909, pelos irmãos Poppe, com o objetivo de ser uma instituição democrática e sem preconceitos. 
+---------------------------------------------
+Log: 29/07/2020 19:13:05 
+>>> O Sport Club Internacional é um clube multiesportivo brasileiro com sede na cidade de Porto Alegre, capital do Rio Grande do Sul. Foi fundado em 4 de abril de 1909, pelos irmãos Poppe, com o objetivo de ser uma instituição democrática e sem preconceitos. 
+---------------------------------------------
+Log: 29/07/2020 19:47:35 
+>>> RegistrarAberturaCaixa 1 
+---------------------------------------------
+Log: 13/08/2020 15:17:07 
+>>> EnvelopeModel.RegistrarFechamentoCaixa - database is locked
+database is locked 
+---------------------------------------------
+Log: 07/11/2020 08:21:50 
+>>> EnvelopeModel.RegistrarAberturaCaixa - database is locked
+database is locked 
+---------------------------------------------
+Log: 07/11/2020 08:22:10 
+>>> EnvelopeModel.RegistrarAberturaCaixa - database is locked
+database is locked 
+---------------------------------------------
